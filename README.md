@@ -1,4 +1,4 @@
-<h2>Frameworks used:</h2>
+<h2>Frameworks/Library used:</h2>
 <ol>
   <li>Node.js</li>
   <li>Express.js</li>
