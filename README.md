@@ -34,3 +34,6 @@
     </ul>
   </li>
 </ol>
+
+<h2>Postman collection link</h2>
+<a href="https://documenter.getpostman.com/view/32314835/2s9YsNfWpx#abbfadc0-c40e-4d4d-81d6-d41d6613e6ed">Visit Link</a>
